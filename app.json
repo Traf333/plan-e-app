@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "planEApp",
+    "slug": "planEApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
